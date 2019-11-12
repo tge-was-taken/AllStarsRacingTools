@@ -1,0 +1,4 @@
+d:\users\smart\documents\visual studio 2017\Projects\AllStarsRacingLib\AllStarsRacingLib\bin\Debug\AllStarsRacingLib.dll
+d:\users\smart\documents\visual studio 2017\Projects\AllStarsRacingLib\AllStarsRacingLib\bin\Debug\AllStarsRacingLib.pdb
+d:\users\smart\documents\visual studio 2017\Projects\AllStarsRacingLib\AllStarsRacingLib\obj\Debug\AllStarsRacingLib.dll
+d:\users\smart\documents\visual studio 2017\Projects\AllStarsRacingLib\AllStarsRacingLib\obj\Debug\AllStarsRacingLib.pdb

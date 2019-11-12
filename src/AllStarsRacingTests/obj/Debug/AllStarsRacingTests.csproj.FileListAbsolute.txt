@@ -1,0 +1,8 @@
+d:\users\smart\documents\visual studio 2017\Projects\AllStarsRacingLib\AllStarsRacingTests\bin\Debug\AllStarsRacingTests.exe.config
+d:\users\smart\documents\visual studio 2017\Projects\AllStarsRacingLib\AllStarsRacingTests\bin\Debug\AllStarsRacingTests.exe
+d:\users\smart\documents\visual studio 2017\Projects\AllStarsRacingLib\AllStarsRacingTests\bin\Debug\AllStarsRacingTests.pdb
+d:\users\smart\documents\visual studio 2017\Projects\AllStarsRacingLib\AllStarsRacingTests\obj\Debug\AllStarsRacingTests.csprojResolveAssemblyReference.cache
+d:\users\smart\documents\visual studio 2017\Projects\AllStarsRacingLib\AllStarsRacingTests\obj\Debug\AllStarsRacingTests.exe
+d:\users\smart\documents\visual studio 2017\Projects\AllStarsRacingLib\AllStarsRacingTests\obj\Debug\AllStarsRacingTests.pdb
+d:\users\smart\documents\visual studio 2017\Projects\AllStarsRacingLib\AllStarsRacingTests\bin\Debug\AllStarsRacingLib.dll
+d:\users\smart\documents\visual studio 2017\Projects\AllStarsRacingLib\AllStarsRacingTests\bin\Debug\AllStarsRacingLib.pdb
